@@ -1,0 +1,4 @@
+{
+    "markdown.updateLinksOnFileMove.enableForDirectories": false,
+    "javascript.updateImportsOnFileMove.enabled": "never"
+}
