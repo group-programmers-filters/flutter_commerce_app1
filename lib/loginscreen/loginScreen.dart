@@ -21,7 +21,7 @@ class _loginScreenState extends State<loginScreen> {
     return Scaffold(
       appBar: AppBar(
         elevation: 0.0,
-        backgroundColor: Colors.white,
+        backgroundColor: Color.fromARGB(255, 254, 253, 253),
       ),
       body: Padding(
         padding: const EdgeInsets.only(top: 50,right: 20,left: 20,),
